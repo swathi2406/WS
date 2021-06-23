@@ -1,0 +1,802 @@
+[
+  {
+    "Name": "Indian Institute of Technology Madras",
+    "Score": "89.93",
+    "Rank": "1"
+  },
+  {
+    "Name": "Indian Institute of Technology Delhi",
+    "Score": "88.08",
+    "Rank": "2"
+  },
+  {
+    "Name": "Indian Institute of Technology Bombay",
+    "Score": "85.08",
+    "Rank": "3"
+  },
+  {
+    "Name": "Indian Institute of Technology Kanpur",
+    "Score": "82.18",
+    "Rank": "4"
+  },
+  {
+    "Name": "Indian Institute of Technology Kharagpur",
+    "Score": "80.56",
+    "Rank": "5"
+  },
+  {
+    "Name": "Indian Institute of Technology Roorkee",
+    "Score": "76.29",
+    "Rank": "6"
+  },
+  {
+    "Name": "Indian Institute of Technology Guwahati",
+    "Score": "74.9",
+    "Rank": "7"
+  },
+  {
+    "Name": "Indian Institute of Technology Hyderabad",
+    "Score": "66.44",
+    "Rank": "8"
+  },
+  {
+    "Name": "National Institute of Technology Tiruchirappalli",
+    "Score": "64.1",
+    "Rank": "9"
+  },
+  {
+    "Name": "Indian Institute of Technology Indore",
+    "Score": "62.88",
+    "Rank": "10"
+  },
+  {
+    "Name": "Indian Institute of Technology (BHU) Varanasi",
+    "Score": "62.54",
+    "Rank": "11"
+  },
+  {
+    "Name": "Indian Institute of Technology (Indian School of Mines)",
+    "Score": "62.06",
+    "Rank": "12"
+  },
+  {
+    "Name": "National Institute of Technology Karnataka",
+    "Score": "61.3",
+    "Rank": "13"
+  },
+  { "Name": "Anna University", "Score": "59.89", "Rank": "14" },
+  { "Name": "Vellore Institute of Technology", "Score": "59.32", "Rank": "15" },
+  {
+    "Name": "National Institute of Technology Rourkela",
+    "Score": "59.29",
+    "Rank": "16"
+  },
+  { "Name": "Jadavpur University", "Score": "59.23", "Rank": "17" },
+  { "Name": "Institute of Chemical Technology", "Score": "58.7", "Rank": "18" },
+  {
+    "Name": "National Institute of Technology Warangal",
+    "Score": "57.76",
+    "Rank": "19"
+  },
+  { "Name": "Amrita Vishwa Vidyapeetham", "Score": "57.37", "Rank": "20" },
+  {
+    "Name": "Indian Institute of Engineering Science and Technology",
+    "Score": "57.14",
+    "Rank": "21"
+  },
+  {
+    "Name": "Indian Institute of Technology Bhubaneswar",
+    "Score": "56.8",
+    "Rank": "22"
+  },
+  {
+    "Name": "National Institute of Technology Calicut",
+    "Score": "56.56",
+    "Rank": "23"
+  },
+  {
+    "Name": "Indian Institute of Technology Gandhinagar",
+    "Score": "56.15",
+    "Rank": "24"
+  },
+  {
+    "Name": "Indian Institute of Technology Ropar",
+    "Score": "55.95",
+    "Rank": "25"
+  },
+  {
+    "Name": "Indian Institute of Technology Patna",
+    "Score": "55.74",
+    "Rank": "26"
+  },
+  {
+    "Name": "Visvesvaraya National Institute of Technology",
+    "Score": "54.76",
+    "Rank": "27"
+  },
+  { "Name": "Jamia Millia Islamia", "Score": "54.58", "Rank": "28" },
+  {
+    "Name": "Thapar Institute of Engineering & Technology",
+    "Score": "54.45",
+    "Rank": "29"
+  },
+  {
+    "Name": "Birla Institute of Technology & Science",
+    "Score": "54.39",
+    "Rank": "30"
+  },
+  {
+    "Name": "Indian Institute of Technology Mandi",
+    "Score": "54.17",
+    "Rank": "31"
+  },
+  { "Name": "Amity University Noida", "Score": "53.09", "Rank": "32" },
+  {
+    "Name": "Indian Institute of Space Science and Technology",
+    "Score": "53.01",
+    "Rank": "33"
+  },
+  { "Name": "Siksha `O` Anusandhan", "Score": "52.38", "Rank": "34" },
+  {
+    "Name": "Malaviya National Institute of Technology",
+    "Score": "52.25",
+    "Rank": "35"
+  },
+  { "Name": "Delhi Technological University", "Score": "51.99", "Rank": "36" },
+  {
+    "Name": "Shanmugha Arts Science Technology & Research Academy",
+    "Score": "51.79",
+    "Rank": "37"
+  },
+  { "Name": "Birla Institute of Technology", "Score": "51.42", "Rank": "38" },
+  { "Name": "Aligarh Muslim University", "Score": "51.39", "Rank": "39" },
+  {
+    "Name": "National Institute of Technology Kurukshetra",
+    "Score": "51.19",
+    "Rank": "40"
+  },
+  {
+    "Name": "S. R. M. Institute of Science and Technology",
+    "Score": "50.95",
+    "Rank": "41"
+  },
+  {
+    "Name": "Kalinga Institute of Industrial Technology",
+    "Score": "50.07",
+    "Rank": "42"
+  },
+  {
+    "Name": "International Institute of Information Technology Hyderabad",
+    "Score": "49.45",
+    "Rank": "43"
+  },
+  {
+    "Name": "Sri Sivasubramaniya Nadar College of Engineering",
+    "Score": "49.26",
+    "Rank": "44"
+  },
+  { "Name": "Manipal Institute of Technology", "Score": "49.06", "Rank": "45" },
+  {
+    "Name": "National Institute of Technology Silchar",
+    "Score": "48.66",
+    "Rank": "46"
+  },
+  {
+    "Name": "National Institute of Technology Durgapur",
+    "Score": "48.39",
+    "Rank": "47"
+  },
+  {
+    "Name": "Motilal Nehru National Institute of Technology",
+    "Score": "48.24",
+    "Rank": "48"
+  },
+  { "Name": "PSG College of Technology", "Score": "47.21", "Rank": "49" },
+  { "Name": "College of Engineering Pune", "Score": "46.79", "Rank": "50" },
+  {
+    "Name": "Sathyabama Institute of Science and Technology",
+    "Score": "46.77",
+    "Rank": "51"
+  },
+  {
+    "Name": "Dr. B. R. Ambedkar National Institute of Technology",
+    "Score": "46.45",
+    "Rank": "52"
+  },
+  {
+    "Name": "Indian Institute of Technology Jodhpur",
+    "Score": "46.13",
+    "Rank": "53"
+  },
+  {
+    "Name": "Sardar Vallabhbhai National Institute of Technology",
+    "Score": "45.59",
+    "Rank": "54"
+  },
+  {
+    "Name": "Visvesvaraya Technological University",
+    "Score": "45.37",
+    "Rank": "55"
+  },
+  {
+    "Name": "Indraprastha Institute of Information Technology Delhi",
+    "Score": "45.03",
+    "Rank": "56"
+  },
+  {
+    "Name": "Jawaharlal Nehru Technological University",
+    "Score": "44.97",
+    "Rank": "57"
+  },
+  {
+    "Name": "Koneru Lakshmaiah Education Foundation University",
+    "Score": "44.7",
+    "Rank": "58"
+  },
+  {
+    "Name": "M. S. Ramaiah Institute of Technology",
+    "Score": "43.74",
+    "Rank": "59"
+  },
+  {
+    "Name": "Kalasalingam Academy of Research and Higher Education",
+    "Score": "43.71",
+    "Rank": "60"
+  },
+  {
+    "Name": "National Institute of Technology Meghalaya",
+    "Score": "43.69",
+    "Rank": "61"
+  },
+  {
+    "Name": "International Institute of Information Technology Bangalore",
+    "Score": "43.55",
+    "Rank": "62"
+  },
+  {
+    "Name": "Defence Institute of Advanced Technology",
+    "Score": "43.13",
+    "Rank": "63"
+  },
+  {
+    "Name": "Thiagarajar College of Engineering",
+    "Score": "43.11",
+    "Rank": "64"
+  },
+  {
+    "Name": "Maulana Azad National Institute of Technology",
+    "Score": "42.17",
+    "Rank": "65"
+  },
+  {
+    "Name": "Indian Institute of Information Technology Guwahati",
+    "Score": "41.92",
+    "Rank": "66"
+  },
+  {
+    "Name": "National Institute of Technology Raipur",
+    "Score": "41.58",
+    "Rank": "67"
+  },
+  {
+    "Name": "Punjab Engineering College (Deemed To Be University)",
+    "Score": "41.43",
+    "Rank": "68"
+  },
+  { "Name": "College of Engineering(A)", "Score": "41.36", "Rank": "69" },
+  { "Name": "R. V. College of Engineering", "Score": "41.02", "Rank": "70" },
+  {
+    "Name": "Veermata Jijabai Technological Institute",
+    "Score": "40.58",
+    "Rank": "71"
+  },
+  { "Name": "Panjab University", "Score": "40.44", "Rank": "72" },
+  { "Name": "B.M.S. College of Engineering", "Score": "40.35", "Rank": "73" },
+  {
+    "Name": "Indian Institute of Food Processing Technology (IIFPT)",
+    "Score": "40.24",
+    "Rank": "74"
+  },
+  {
+    "Name": "National Institute of Technology Agartala",
+    "Score": "39.98",
+    "Rank": "75"
+  },
+  {
+    "Name": "Netaji Subhas University of Technology (NSUT)",
+    "Score": "39.97",
+    "Rank": "76"
+  },
+  {
+    "Name": "National Institute of Technology Goa",
+    "Score": "39.93",
+    "Rank": "77"
+  },
+  {
+    "Name": "Shri Mata Vaishno Devi University",
+    "Score": "39.68",
+    "Rank": "78"
+  },
+  {
+    "Name": "National Institute of Technology Jamshedpur",
+    "Score": "39.44",
+    "Rank": "79"
+  },
+  {
+    "Name": "Karunya Institute of Technology and Sciences",
+    "Score": "39.4",
+    "Rank": "80"
+  },
+  {
+    "Name": "Indian Institute of Information Technology Design & Manufacturing Jabalpur",
+    "Score": "39.29",
+    "Rank": "81"
+  },
+  {
+    "Name": "Kumaraguru College of Technology",
+    "Score": "39.24",
+    "Rank": "82"
+  },
+  {
+    "Name": "Sri Krishna College of Engineering and Technology",
+    "Score": "38.83",
+    "Rank": "83"
+  },
+  { "Name": "Chandigarh University", "Score": "38.82", "Rank": "84" },
+  {
+    "Name": "College of Engineering Trivandrum",
+    "Score": "38.68",
+    "Rank": "85"
+  },
+  {
+    "Name": "Guru Gobind Singh Indraprastha University",
+    "Score": "38.61",
+    "Rank": "86"
+  },
+  { "Name": "Lovely Professional University", "Score": "38.44", "Rank": "87" },
+  {
+    "Name": "University College of Engineering",
+    "Score": "38.43",
+    "Rank": "88"
+  },
+  { "Name": "Graphic Era University", "Score": "38.32", "Rank": "89" },
+  {
+    "Name": "Coimbatore Institute of Technology",
+    "Score": "38.24",
+    "Rank": "90"
+  },
+  {
+    "Name": "Siddaganga Institute of Technology",
+    "Score": "38.23",
+    "Rank": "91"
+  },
+  {
+    "Name": "National Institute of Technology Patna",
+    "Score": "38.21",
+    "Rank": "92"
+  },
+  { "Name": "C.V. Raman Global University", "Score": "37.94", "Rank": "93" },
+  { "Name": "PES University", "Score": "37.94", "Rank": "93" },
+  {
+    "Name": "Vel Tech Rangarajan Dr. Sagunthala R & D Institute of Science and Technology",
+    "Score": "37.86",
+    "Rank": "95"
+  },
+  {
+    "Name": "Jaypee Institute of Information Technology",
+    "Score": "37.8",
+    "Rank": "96"
+  },
+  {
+    "Name": "University College of Engineering",
+    "Score": "37.77",
+    "Rank": "97"
+  },
+  {
+    "Name": "National Institute of Technology Hamirpur",
+    "Score": "37.73",
+    "Rank": "98"
+  },
+  {
+    "Name": "Bharati Vidyapeeth Deemed University College of Engineering",
+    "Score": "37.71",
+    "Rank": "99"
+  },
+  {
+    "Name": "Atal Bihari Vajpayee Indian Institute of Information Technology and Management",
+    "Score": "37.6",
+    "Rank": "100"
+  },
+  {
+    "Name": "Mepco Schlenk Engineering College",
+    "Score": "37.52",
+    "Rank": "101"
+  },
+  {
+    "Name": "Dayalbagh Educational Institute",
+    "Score": "37.51",
+    "Rank": "102"
+  },
+  {
+    "Name": "Indian Institute of Information Technology Allahabad",
+    "Score": "37.41",
+    "Rank": "103"
+  },
+  { "Name": "Punjab Technical University", "Score": "37.1", "Rank": "104" },
+  {
+    "Name": "Government College of Technology",
+    "Score": "37.1",
+    "Rank": "104"
+  },
+  {
+    "Name": "Rajalakshmi Engineering College",
+    "Score": "37.01",
+    "Rank": "106"
+  },
+  {
+    "Name": "Hindustan Institute of Technology  and Science (HITS)",
+    "Score": "36.98",
+    "Rank": "107"
+  },
+  { "Name": "Sri Sairam Engineering College", "Score": "36.91", "Rank": "108" },
+  { "Name": "Army Institute of Technology", "Score": "36.85", "Rank": "109" },
+  { "Name": "The Northcap University", "Score": "36.84", "Rank": "110" },
+  {
+    "Name": "Dhirubhai Ambani Institute of Information and Communication Technology",
+    "Score": "36.8",
+    "Rank": "111"
+  },
+  {
+    "Name": "Shoolini University of Biotechnology and Management Sciences",
+    "Score": "36.72",
+    "Rank": "112"
+  },
+  {
+    "Name": "Shri Ramdeobaba College of Engineering and Management",
+    "Score": "36.62",
+    "Rank": "113"
+  },
+  {
+    "Name": "New Horizon College of Engineering",
+    "Score": "36.6",
+    "Rank": "114"
+  },
+  {
+    "Name": "Jaypee University of Information Technology",
+    "Score": "36.55",
+    "Rank": "115"
+  },
+  {
+    "Name": "Maharaja Sayajirao University of Baroda",
+    "Score": "36.54",
+    "Rank": "116"
+  },
+  { "Name": "Jain University", "Score": "36.49", "Rank": "117" },
+  {
+    "Name": "Vignan's Foundation for Science, Technology & Research",
+    "Score": "36.28",
+    "Rank": "118"
+  },
+  {
+    "Name": "Veer Surendra Sai University of Technology",
+    "Score": "36.13",
+    "Rank": "119"
+  },
+  {
+    "Name": "YMCA University of Science and Technology",
+    "Score": "35.91",
+    "Rank": "120"
+  },
+  {
+    "Name": "National Institute of Food Technology, Enterprenurship & Management",
+    "Score": "35.65",
+    "Rank": "121"
+  },
+  {
+    "Name": "Pondicherry Engineering College",
+    "Score": "35.49",
+    "Rank": "122"
+  },
+  {
+    "Name": "B. S. Abdur Rahman Crescent Institute of Science and Technology",
+    "Score": "35.41",
+    "Rank": "123"
+  },
+  {
+    "Name": "Chaitanya Bharathi Institute of Technology",
+    "Score": "35.32",
+    "Rank": "124"
+  },
+  {
+    "Name": "Bharatiya Vidya Bhavan`s Sardar Patel Institute of Technology",
+    "Score": "35.27",
+    "Rank": "125"
+  },
+  {
+    "Name": "Dayananda Sagar College of Engineering",
+    "Score": "35.11",
+    "Rank": "126"
+  },
+  {
+    "Name": "Vallurupalli Nageswara Rao Vignana Jyothi Institute of Engineering and Technology",
+    "Score": "34.99",
+    "Rank": "127"
+  },
+  {
+    "Name": "Nitte Meenakshi Institute of Technology",
+    "Score": "34.97",
+    "Rank": "128"
+  },
+  { "Name": "DIT University", "Score": "34.93", "Rank": "129" },
+  {
+    "Name": "National Institute of Technology Puducherry",
+    "Score": "34.87",
+    "Rank": "130"
+  },
+  { "Name": "Nirma University", "Score": "34.85", "Rank": "131" },
+  {
+    "Name": "JSS Science and Technology University",
+    "Score": "34.81",
+    "Rank": "132"
+  },
+  {
+    "Name": "N M A M Institute of Technology",
+    "Score": "34.73",
+    "Rank": "133"
+  },
+  {
+    "Name": "Rajiv Gandhi Institute of Petroleum Technology",
+    "Score": "34.59",
+    "Rank": "134"
+  },
+  { "Name": "Kongu Engineering College", "Score": "34.45", "Rank": "135" },
+  { "Name": "KLE Technological University", "Score": "34.34", "Rank": "136" },
+  {
+    "Name": "Sant Longowal Institute of Engineering & Technology",
+    "Score": "34.27",
+    "Rank": "137"
+  },
+  {
+    "Name": "Dr. Vishwanath Karad MIT World Peace University",
+    "Score": "34.17",
+    "Rank": "138"
+  },
+  {
+    "Name": "G. H. Raisoni College of Engineering",
+    "Score": "34.07",
+    "Rank": "139"
+  },
+  {
+    "Name": "Yeshwantrao Chavan College of Engineering",
+    "Score": "34.07",
+    "Rank": "139"
+  },
+  { "Name": "CVR College Of Engineering", "Score": "33.87", "Rank": "141" },
+  {
+    "Name": "Sri Ramakrishna Engineering College",
+    "Score": "33.79",
+    "Rank": "142"
+  },
+  {
+    "Name": "Vardhaman College of Engineering",
+    "Score": "33.75",
+    "Rank": "143"
+  },
+  {
+    "Name": "The Rashtrasant Tukadoji Maharaj Nagpur University",
+    "Score": "33.68",
+    "Rank": "144"
+  },
+  {
+    "Name": "North Eastern Regional Institute of Science & Technology",
+    "Score": "33.67",
+    "Rank": "145"
+  },
+  {
+    "Name": "Indira Gandhi Delhi Technical University for Women",
+    "Score": "33.67",
+    "Rank": "145"
+  },
+  { "Name": "P E S College of Engineering", "Score": "33.65", "Rank": "147" },
+  {
+    "Name": "National Institute of Foundry and Forge Technology (NIFFT)",
+    "Score": "33.57",
+    "Rank": "148"
+  },
+  {
+    "Name": "Saveetha Institute of Medical and Technical Sciences",
+    "Score": "33.55",
+    "Rank": "149"
+  },
+  { "Name": "Sona College of Technology", "Score": "33.53", "Rank": "150" },
+  {
+    "Name": "SVKM`s Narsee Monjee Institute of Management Studies",
+    "Score": "33.5",
+    "Rank": "151"
+  },
+  {
+    "Name": "Sri Krishna College of Technology",
+    "Score": "33.43",
+    "Rank": "152"
+  },
+  { "Name": "Sri Venkateswara University", "Score": "33.29", "Rank": "153" },
+  {
+    "Name": "Heritage Institute of Technology",
+    "Score": "33.27",
+    "Rank": "154"
+  },
+  { "Name": "R. M. K. Engineering College", "Score": "33.24", "Rank": "155" },
+  {
+    "Name": "Velagapudi Ramakrishna Siddhartha Engineering College",
+    "Score": "33.13",
+    "Rank": "156"
+  },
+  {
+    "Name": "Maulana Abul Kalam Azad University of Technology",
+    "Score": "33.07",
+    "Rank": "157"
+  },
+  {
+    "Name": "National Institute of Technology Manipur",
+    "Score": "33.02",
+    "Rank": "158"
+  },
+  { "Name": "Alliance University", "Score": "33", "Rank": "159" },
+  {
+    "Name": "St. Josephs College of Engineering",
+    "Score": "32.95",
+    "Rank": "160"
+  },
+  { "Name": "SR Engineering College", "Score": "32.95", "Rank": "160" },
+  { "Name": "Amity University Gwalior", "Score": "32.88", "Rank": "162" },
+  { "Name": "Haldia Institute of Technology", "Score": "32.83", "Rank": "163" },
+  { "Name": "Government Engineering College", "Score": "32.81", "Rank": "164" },
+  {
+    "Name": "Vishwakarma Institute of Technology",
+    "Score": "32.72",
+    "Rank": "165"
+  },
+  {
+    "Name": "Harcourt Butler Technical University",
+    "Score": "32.69",
+    "Rank": "166"
+  },
+  {
+    "Name": "University of Petroleum and Energy Studies",
+    "Score": "32.51",
+    "Rank": "167"
+  },
+  {
+    "Name": "Walchand College of Engineering",
+    "Score": "32.39",
+    "Rank": "168"
+  },
+  {
+    "Name": "BMS Institute of Technology & Management",
+    "Score": "32.36",
+    "Rank": "169"
+  },
+  {
+    "Name": "Institute of Aeronautical Engineering",
+    "Score": "32.26",
+    "Rank": "170"
+  },
+  {
+    "Name": "K. J. Somaiya College of Engineering",
+    "Score": "32.25",
+    "Rank": "171"
+  },
+  {
+    "Name": "Goka Raju Ranga Raju Institute of Engineering & Technology",
+    "Score": "32.24",
+    "Rank": "172"
+  },
+  {
+    "Name": "Maharshi Karve Stree Shikshan Samstha's Cummins College of Engineering for Women",
+    "Score": "32.23",
+    "Rank": "173"
+  },
+  {
+    "Name": "ManavRachna International Institute of Research & Studies",
+    "Score": "32.21",
+    "Rank": "174"
+  },
+  {
+    "Name": "The National Institute of Engineering",
+    "Score": "32.17",
+    "Rank": "175"
+  },
+  {
+    "Name": "Sri Venkateswara College of Engineering",
+    "Score": "32.12",
+    "Rank": "176"
+  },
+  {
+    "Name": "Pandit Deendayal Petroleum University",
+    "Score": "32.08",
+    "Rank": "177"
+  },
+  {
+    "Name": "School of Engineering, Cochin University of Science and Technology",
+    "Score": "32.04",
+    "Rank": "178"
+  },
+  {
+    "Name": "Silicon Institute of Technology (SIT), Bhubaneswar",
+    "Score": "32",
+    "Rank": "179"
+  },
+  { "Name": "Anurag Group of Institutions", "Score": "31.74", "Rank": "180" },
+  { "Name": "Chitkara University", "Score": "31.72", "Rank": "181" },
+  {
+    "Name": "Indian Institute of Information Technology, Design & Manufacturing",
+    "Score": "31.63",
+    "Rank": "182"
+  },
+  {
+    "Name": "Madan Mohan Malaviya University of Technology",
+    "Score": "31.6",
+    "Rank": "183"
+  },
+  {
+    "Name": "Sree Vidyanikethan Engineering College",
+    "Score": "31.54",
+    "Rank": "184"
+  },
+  { "Name": "JNTUA College of Engineering", "Score": "31.52", "Rank": "185" },
+  { "Name": "BNM Institute of Technology", "Score": "31.48", "Rank": "186" },
+  { "Name": "Vasavi College of Engineering", "Score": "31.46", "Rank": "187" },
+  {
+    "Name": "Gayatri Vidya Parishad College of Engineering",
+    "Score": "31.38",
+    "Rank": "188"
+  },
+  { "Name": "National Engineering College", "Score": "31.36", "Rank": "189" },
+  {
+    "Name": "G.Pulla Reddy Engineering College",
+    "Score": "31.35",
+    "Rank": "190"
+  },
+  {
+    "Name": "Institute of Engineering & Management",
+    "Score": "31.33",
+    "Rank": "191"
+  },
+  {
+    "Name": "Sri Sai Ram Institute of Technology",
+    "Score": "31.32",
+    "Rank": "192"
+  },
+  { "Name": "Dharmsinh Desai University", "Score": "31.29", "Rank": "193" },
+  {
+    "Name": "The LNM Institute of Information Technology",
+    "Score": "31.24",
+    "Rank": "194"
+  },
+  {
+    "Name": "Guru Jambheshwar University of Science and Technology",
+    "Score": "31.23",
+    "Rank": "195"
+  },
+  {
+    "Name": "Dr. D. Y. Patil Institute of Technology",
+    "Score": "31.15",
+    "Rank": "196"
+  },
+  {
+    "Name": "Pimpri Chinchwad College of Engineering",
+    "Score": "31.13",
+    "Rank": "197"
+  },
+  {
+    "Name": "Ramrao Adik Institute of Technology",
+    "Score": "31.11",
+    "Rank": "198"
+  },
+  { "Name": "BVRIT Hyderabad", "Score": "31.1", "Rank": "199" },
+  {
+    "Name": "National Institute of Technology Arunachal Pradesh",
+    "Score": "31.09",
+    "Rank": "200"
+  }
+]

@@ -1,0 +1,144 @@
+body {
+  font-family: "Poppins", sans-serif;
+  background-color: #f3f6f9;
+}
+
+/* @media (min-width: 992px) {
+  .header-mobile {
+    display: none;
+  }
+} */
+
+.no-underline {
+  text-decoration: none !important;
+}
+
+.navbarBg {
+  background-color: #5400fa;
+  height: 60px;
+}
+
+.login-control {
+  background-color: #fff !important;
+}
+
+/* .signin-wrapper {
+  height: 50vh;
+} */
+
+.signin-content {
+  height: 89vh;
+}
+
+.signin-wrapper .row .col-md-7,
+.signin-bg {
+  background-image: url("./images/login.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: 20%;
+  border-radius: 15px 0px 0px 15px;
+}
+
+/* .signin-form {
+  background-color: #3430ff;
+  border-radius: 0px 15px 15px 0px;
+} */
+
+.sidebar {
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  min-height: 100vh !important;
+  z-index: 100;
+  padding: 60px 0 0;
+  box-shadow: inset -1px 0 0 rgba(0, 0, 0, 0.1);
+}
+#sidebar-wrapper {
+  min-height: 100vh !important;
+  width: 100vw;
+  margin-left: -1rem;
+  -webkit-transition: margin 0.25s ease-out;
+  -moz-transition: margin 0.25s ease-out;
+  -o-transition: margin 0.25s ease-out;
+  transition: margin 0.25s ease-out;
+}
+#sidebar-wrapper .sidebar-heading {
+  padding: 0.875rem 1.25rem;
+  font-size: 1.2rem;
+}
+
+#page-content-wrapper {
+  min-width: 0;
+  width: 100%;
+}
+
+.email-wrap {
+  overflow: auto;
+}
+
+.render-chat {
+  height: 60vh;
+  overflow: auto;
+}
+
+.bubble {
+  box-sizing: border-box;
+  float: left;
+  width: auto;
+  max-width: 80%;
+  position: relative;
+  background: #82cff4;
+  clear: both;
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  border-radius: 20px;
+  margin-bottom: 20px;
+  padding: 10px 20px;
+  color: rgb(29, 26, 26);
+  word-wrap: break-word;
+}
+
+.bubble-alt {
+  box-sizing: border-box;
+  float: left;
+  width: auto;
+  max-width: 80%;
+  position: relative;
+  clear: both;
+  background: #a4ffe8;
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  border-radius: 20px;
+  margin-bottom: 20px;
+  padding: 10px 20px;
+  color: rgb(29, 26, 26);
+  word-wrap: break-word;
+}
+
+.bubble-date {
+  box-sizing: border-box;
+  float: left;
+  width: auto;
+  max-width: 80%;
+  position: relative;
+  background: #e7e7e7;
+  clear: both;
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  border-radius: 20px;
+  margin-bottom: 20px;
+  padding: 10px 20px;
+  color: rgb(29, 26, 26);
+  word-wrap: break-word;
+}
+
+.postOptions {
+  justify-content: space-around;
+}
+
+.userPosts,
+.projectDashboard {
+  height: 88vh !important;
+  overflow: auto;
+}
